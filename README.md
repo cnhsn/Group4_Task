@@ -1,2 +1,2 @@
-# Group4_Task
-Group 4 Task repository.
+# RTU Auto
+This is official Group 4 RTU Auto repository.
