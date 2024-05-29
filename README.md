@@ -1,5 +1,5 @@
 # HBY Auto
-This is official Group 4 RTU Auto repository.
+This is official Group 4 HBY Auto repository.
 
 ## Contributors
 
